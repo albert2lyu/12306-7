@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "overtrue/wechat": "^3.3"
+    }
+}
